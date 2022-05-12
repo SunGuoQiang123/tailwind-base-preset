@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-base-preset",
+  "version": "1.0.0",
+  "description": "antd style preset",
+  "main": "tailwind.config.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunGuoQiang123/tailwind-base-preset.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunGuoQiang123/tailwind-base-preset/issues"
+  },
+  "homepage": "https://github.com/SunGuoQiang123/tailwind-base-preset#readme"
+}
