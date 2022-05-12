@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-base-preset",
+  "name": "@sgq/tailwind-base-preset",
   "version": "1.0.0",
   "description": "antd style preset",
   "main": "tailwind.config.js",
